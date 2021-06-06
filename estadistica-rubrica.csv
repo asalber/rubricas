@@ -29,6 +29,7 @@ Descriptiva,Calcular la moda a partir de la muestra,1
 Descriptiva,Calcular la moda a partir de la tabla de frecuencias,1
 Descriptiva,Interpretar la moda,1
 Descriptiva,Identificar el estadístico de tendencia central más apropiado en cada caso,2
+Descriptiva,Identificar la frecuencia acumulada correspondiente a un percentil,1
 Descriptiva,Calcular percenciles a partir de la tabla de frecuencias sin datos agrupados,2
 Descriptiva,Calcular percenciles a partir de la tabla de frecuencias con datos agrupados (interpolación),2
 Descriptiva,Calcular la frecuencia acumulada hasta un determinado valor con datos agrupados (interpolación),2
@@ -79,87 +80,120 @@ Regresión,Interpretar la covarianza (unidades),2
 Regresión,Calcular la recta de regresión,3
 Regresión,Calcular el coeficiente de regresión,2
 Regresión,Interpretar el coeficiente de regresión,2
-Regresión,Utilizar la recta de regresión para predecir la variable dependiente,1
-Regresión,Identificar el modelo de regresión adecuado dependiendo de la variable que se quiera predecir,3
+Regresión,Identificar el modelo de regresión adecuado dependiendo de la variable que se quiera predecir,1
 Regresión,Calcular las medias a partir de las rectas de regresión,1
 Regresión,Calcular el coeficiente de determinación lineal,3
 Regresión,Calcular el coeficiente de determinación a partir de las rectas de regresión,1
 Regresión,Interpretar el coeficiente de determinación lineal,3
 Regresión,Calcular el coeficiente de correlación lineal,3
 Regresión,Interpretar el coeficiente de correlación lineal,3
-Regresión,"Interpretar la fiabilidad de una predicción teniendo en cuenta r, el tamaño de la muestra y si el valor de la variable independiente está en el rago de valores de la muestra",3
+Regresión,"Interpretar la fiabilidad de una predicción teniendo en cuenta r, el tamaño de la muestra y si el valor de la variable independiente está en el rago de valores de la muestra",2
 Regresión,Calcular un modelo de regresión exponencial,2
-Regresión,Calcular un modelo de regresión logarítmico,2
-Regresión,Comparar la bondad de ajuste de dos o más modelos de regresión,3
-Regresión,Hacer predicciones con modelos de regresión no lineales,1
+Regresión,Calcular un modelo de regresión logarítmico,3
+Regresión,Comparar la bondad de ajuste de dos o más modelos de regresión,1
+Regresión,Hacer predicciones con modelos de regresión no lineales,3
 Regresión,Identificar datos atípicos en un diagrama de dispersión,1
-Probabilidad,Probabilidad,3
-Probabilidad,Identificar la unión,2
-Probabilidad,Identificar la interseción,3
-Probabilidad,Identificar la diferencia entres dos sucesos,2
-Probabilidad,Identificar la interseción de dos sucesos contrarios,2
-Probabilidad,Calcular la probabilidad de la unión,2
-Probabilidad,Calcular la probabilidad de la interseción,2
-Probabilidad,Calcular la probabilidad de la diferencia entre dos sucesos,2
-Probabilidad,Calcular la probabilidad del suceso contrario,2
-Probabilidad,Aplicar las leyes de Morgan,3
-Probabilidad,Interpretación de la probabilidad,2
-Probabilidad,Interpretación de dos sucesos incompatibles,2
-Probabilidad,Calculo de la probabilidad condicionada,3
-Probabilidad,Identificación de sucesos independientes,3
-Probabilidad,Calcular la probabilidad total,3
-Probabilidad,Calcular la probabilidades a posteriori,3
-Probabilidad,Interpretación de las probabilidades a posteriori,3
-Epidemiología,Calcular la prevalencia de un suceso,1
-Epidemiología,Calcular la incidencia de un suceso,1
-Epidemiología,Calcular la tasa de incidencia,1
-Epidemiología,Calcular el riesgo atribuible,1
-Epidemiología,Interpretación del riesgo atribuible,2
-Epidemiología,Calcular el riesgo relativo,2
-Epidemiología,Interpretación del riesgo relativo,3
-Epidemiología,Calcular el Odds ratio,2
-Epidemiología,Interpretación del Odds ratio,3
-Epidemiología,Identificar cuando es mejor usar el riesgo relativo y cuando el odds ratio,2
-Epidemiología,Calcular la sensibilidad de un test diagnóstico a partir de la tabla,1
-Epidemiología,Calcular la especificidad de un test diagnóstico a partir de la tabla,1
-Epidemiología,Calcular la sensibilidad de un test diagnóstico a partir de los valores predictivos,2
-Epidemiología,Calcular la especificidad de un test diagnóstico a partir de los valores predictivos,2
-Epidemiología,Interpetación de la sensibilidad y de la especificidad,2
-Epidemiología,Calcular el valor predictivo positivo,3
-Epidemiología,Calcular el valor predictivo negativo,3
-Epidemiología,Interpetación de los valores predictivos,3
-Epidemiología,Calcular la probabilidad de la no enfermedad si el test a dado positivo,2
-Epidemiología,Calcular la probabilidad de la enfermedad si el test ha dado negativo,2
+Probabilidad,Identificar la unión de dos sucesos,1
+Probabilidad,Identificar la interseción de dos sucesos,1
+Probabilidad,Identificar el contrario de un suceso,1
+Probabilidad,Identificar la diferencia de dos sucesos,1
+Probabilidad,Identificar un suceso condicionado,1
+Probabilidad,Determinar si dos sucesos son compatibles o incompatibles,
+Probabilidad,Aplicar las leyes de Morgan,2
+Probabilidad,Calcular una probabilidad con la definición de Laplace,1
+Probabilidad,Calcular una probabilidad con la definición frequentista,1
+Probabilidad,Calcular la probabilidad de la unión de dos sucesos,2
+Probabilidad,Calcular la probabilidad de la interseción de dos sucesos,2
+Probabilidad,Calcular la probabilidad del suceso contrario,1
+Probabilidad,Calcular la probabilidad de la diferencia de dos sucesos,2
+Probabilidad,Calcular una probabilidad condicionada ,2
+Probabilidad,Determinar si dos sucesos son dependientes o independientes,3
+Probabilidad,Construir un árbol probabilístico,3
+Probabilidad,Calcular la probabilidad de un suceso sumando las probabilidades de sus elementos,2
+Probabilidad,Aplicar el teorema de la probabilidad total,3
+Probabilidad,Aplicar el teorema de Bayes,3
+Probabilidad,Interpretación de las probabilidades,
+Epidemiología,Calcular la prevalencia de un suceso,2
+Epidemiología,Calcular la incidencia acumulada de un suceso,1
+Epidemiología,Calcular el riesgo atribuible de un suceso,
+Epidemiología,Calcular el riesgo de un suceso,2
+Epidemiología,Calcular el riesgo relativo de un suceso,2
+Epidemiología,Interpretar el riesgo relativo,3
+Epidemiología,Calcular el odds de un suceso,2
+Epidemiología,Calcular el odds ratio de un suceso,2
+Epidemiología,Interpretar el odds ratio,3
+Epidemiología,Identificar la medida de asociación más adecuada dependiendo del tipo de estudio (prospectivo o retrospectivo),3
+Epidemiología,"Identificar los verdaderos positivos, verdaderos negativos, falsos positivos y falsos negativos de un test diagnóstico",1
+Epidemiología,Identificar la sensibilidad de un test diagnóstico,1
+Epidemiología,Identificar la especificidad de un test diagnóstico,1
+Epidemiología,Identificar el valor predictivo positivo de un test diagnóstico,1
+Epidemiología,Identificar el valor predictivo negativo de un test diagnóstico,1
+Epidemiología,Calcular la sensibilidad de un test diagnóstico a partir de la tabla,2
+Epidemiología,Calcular la sensibilidad de un test diagnóstico como una probabilidad condicionada,2
+Epidemiología,Interpretar la sensibilidad de un test diagnóstico,3
+Epidemiología,Calcular la especificidad de un test diagnóstico a partir de la tabla,2
+Epidemiología,Calcular la especificidad de un test diagnóstico como una probabilidad condicionada,2
+Epidemiología,Interpretar la especificidad de un test diagnóstico,3
+Epidemiología,Calcular la probabilidad de un resultado positivo en un test diagnóstico,2
+Epidemiología,Calcular la probabilidad de un resultado negativo en un test diagnóstico,2
+Epidemiología,Calcular el valor predictivo positivo de un test diagnóstico,2
+Epidemiología,Interpretar el valor predictivo positivo de un test diagnóstico,3
+Epidemiología,Calcular el valor predictivo negativo de un test diagnóstico,2
+Epidemiología,Interpretar el valor predictivo negativo de un test diagnóstico,3
 Epidemiología,Calcular la probabilidad de diagnóstico acertado,2
 Epidemiología,Calcular la probabilidad de diagnóstico erroneo,2
-Variables Aleatorias Discretas,Calcular la función de probabilidad,1
-Variables Aleatorias Discretas,Calcular la función de distribución,1
-Variables Aleatorias Discretas,Construir la tabla de distribución de probabilidad,2
+Epidemiología,Combinar dos test diagnósticos,3
+Variables Aleatorias Discretas,Definir una variable aleatoria en el contexto de un problema,1
+Variables Aleatorias Discretas,"Identificar los valores de una variable aleatoria que cumplen un suceso del tipo “ninguno”, “todos”, “alguno”, “al menos”, “a lo sumo”, “más”, “menos”…",1
+Variables Aleatorias Discretas,Calcular la función de probabilidad de una variable aleatoria discreta,2
+Variables Aleatorias Discretas,Calcular la función de distribución de una variable aleatoria discreta,2
 Variables Aleatorias Discretas,Dibujar el gráfico de la función de probabilidad,1
 Variables Aleatorias Discretas,Dibujar el gráfico de la función de distribución,1
-Variables Aleatorias Discretas,Calcular la media a partir de la tabla de distribución de probabilidad,1
-Variables Aleatorias Discretas,Calcular la varianza a partir de la tabla de distribución de probabilidad,1
-Variables Aleatorias Discretas,Calcular la desviación típica a partir de la tabla de distribución de probabilidad,1
-Variables Aleatorias Discretas,Identificar que mide la variable aleatoria discreta,1
-Variables Aleatorias Discretas,Identificar el modelo de distribución de probabilidad Binomial,3
-Variables Aleatorias Discretas,Identificar la probabilidad buscada en un determinado estudio,3
-Variables Aleatorias Discretas,Identificar los parametros de una distribución Binomial,2
-Variables Aleatorias Discretas,Calcular la función de probabilidad Binomial,2
-Variables Aleatorias Discretas,Calcular la media a partir de una distribución Binomial,1
-Variables Aleatorias Discretas,Calcular la varianza a partir de una distribución Binomial,1
-Variables Aleatorias Discretas,Calcular la desviación típica a partir de una distribución Binomial,1
+Variables Aleatorias Discretas,Obtener la función de probabilidad a partir del gráfico de probabilidad de una variable aleatoria discreta,2
+Variables Aleatorias Discretas,Obtener la función de distribución a partir del gráfico de probabilidad acumulada de una variable aleatoria discreta,2
+Variables Aleatorias Discretas,Calcular la media de una variable aleatoria discreta,2
+Variables Aleatorias Discretas,Calcular la varianza de una variable aleatoria discreta,2
+Variables Aleatorias Discretas,Calcular una probabilidad acumulada hacia la izquierda de una variable aleatoria discreta,2
+Variables Aleatorias Discretas,Calcular una probabilidad acumulada hacia la derecha de una variable aleatoria discreta,2
+Variables Aleatorias Discretas,Calcular la probabilidad de un intervalo de una variable aleatoria discreta,2
+Variables Aleatorias Discretas,Identificar un modelo de distribución uniforme discreta,2
+Variables Aleatorias Discretas,Identificar los parámetros de un modelo de distribución uniforme discreta,2
+Variables Aleatorias Discretas,Calcular la probabilidad de un valor de una distribución uniforme discreta,2
+Variables Aleatorias Discretas,Calcular la media de una distribución uniforme discreta,1
+Variables Aleatorias Discretas,Calcular la varianza de una distribución uniforme discreta,1
+Variables Aleatorias Discretas,Identificar el modelo de distribución de probabilidad binomial,3
+Variables Aleatorias Discretas,Identificar el número de repeticiones de un modelo binomial,1
+Variables Aleatorias Discretas,Identificar la probabilidad de éxito de un modelo binomial,2
+Variables Aleatorias Discretas,Calcular la probabilidad de un valor de una distribución binomial,2
+Variables Aleatorias Discretas,Calcular la media de una distribución binomial,2
+Variables Aleatorias Discretas,Calcular la varianza de una distribución binomial,2
 Variables Aleatorias Discretas,Identificar el modelo de distribución de probabilidad de Poisson,3
-Variables Aleatorias Discretas,Identificar la lambda del modelo de Poisson,2
-Variables Aleatorias Discretas,Calcular la función de probabilidad de Poisson,2
-Variables Aleatorias Discretas,Calcular la media a partir de una distribución Poisson,1
-Variables Aleatorias Discretas,Calcular la varianza a partir de una distribución Poisson,1
-Variables Aleatorias Discretas,Calcular la desviación típica a partir de una distribución Poisson,1
-Variables Aleatorias Discretas,Identificar cuando una Binomial se puede approximar a una Poissoniana,2
-Variables Aleatorias Continuas,Identificar el area de a considerar en una dostribución normal,2
-Variables Aleatorias Continuas,Calculo de las probabilidades con la Normal estándar por encima de un cierto valor,3
-Variables Aleatorias Continuas,Calculo de las probabilidades con la Normal estándar por debajo de un cierto valor,2
-Variables Aleatorias Continuas,Calculo de las probabilidades con la Normal estándar entre dos valores,3
-Variables Aleatorias Continuas,Transformación de tipificación,3
-Variables Aleatorias Continuas,Determinar el valor de la variable aleatoria utilizando la tabla de la función de distribución,3
-Variables Aleatorias Continuas,Determinara la media de la Normal,3
-Variables Aleatorias Continuas,Determinar la desviación típica de la Normal,3
+Variables Aleatorias Discretas,Identificar el parámetro lambda del modelo de Poisson,2
+Variables Aleatorias Discretas,Cambiar la media de un modelo Poisson dependiendo del intervalo unidad considerado,2
+Variables Aleatorias Discretas,Calcular la probabilidad de un valor de una distribución Poisson,2
+Variables Aleatorias Discretas,Calcular la media de una distribución Poisson,1
+Variables Aleatorias Discretas,Calcular la varianza de una distribución Poisson,1
+Variables Aleatorias Discretas,Aplicar la ley de los casos raros,3
+Variables Aleatorias Continuas,Comprobar si una función es función de densidad,2
+Variables Aleatorias Continuas,Calcular una probabilidad acumulada a partir de la función de densidad,2
+Variables Aleatorias Continuas,Calcular la probabilidad de un intervalo a partir de la función de densidad,2
+Variables Aleatorias Continuas,Calcular una probabilidad acumulada hacia la derecha a partir de la función de distribución,1
+Variables Aleatorias Continuas,Calcular la probabilidad de un intervalo a partir de la función de distribución,2
+Variables Aleatorias Continuas,Calcular la media de una distribución continua a partir de la función de densidad,2
+Variables Aleatorias Continuas,Calcular la varianza de una distribución continua a partir de la función de densidad,2
+Variables Aleatorias Continuas,Identificar un modelo de distribución de probabilidad uniforme continuo,2
+Variables Aleatorias Continuas,Identificar los parámetros de un modelo de distribución uniforme continuo,1
+Variables Aleatorias Continuas,Calcular la probabilidad acumulada de una distribución uniforme continua,2
+Variables Aleatorias Continuas,Calcular la media de una distribución uniforme continua,1
+Variables Aleatorias Continuas,Calcular la varianza de una distribución uniforme continua,1
+Variables Aleatorias Continuas,Identificar un modelo de distribución de probabilidad normal,3
+Variables Aleatorias Continuas,Identificar los parámetros (media y desviación típica) de un modelo de distribución normal,1
+Variables Aleatorias Continuas,Aplicar las propiedades de un modelo de distribución normal,2
+Variables Aleatorias Continuas,Aplicar la transformación de tipificación a una variable con distribución normal,2
+Variables Aleatorias Continuas,Calcula la probabilidad acumulada de un valor con la tabla de la distribución normal estándar,2
+Variables Aleatorias Continuas,Calcular un percentil con la tabla de la distribución normal estándar,2
+Variables Aleatorias Continuas,Deshacer la transformación de tipificación para obtener un percentil de una distribución normal no estándar,2
+Variables Aleatorias Continuas,Obtener la media de una distribución normal resolviendo una ecuación,2
+Variables Aleatorias Continuas,Obtener la desviación típica de una distribución normal resolviendo una ecuación,2
+Variables Aleatorias Continuas,Obtener la media y la desviación típica de una distribución normal resolviendo un sistema de ecuaciones,2
+Variables Aleatorias Continuas,Compute the number of individuals of a population that satisfy an event from its probability,1
