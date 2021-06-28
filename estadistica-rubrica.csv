@@ -87,18 +87,19 @@ Regresión,Calcular el coeficiente de determinación a partir de las rectas de r
 Regresión,Interpretar el coeficiente de determinación lineal,3
 Regresión,Calcular el coeficiente de correlación lineal,3
 Regresión,Interpretar el coeficiente de correlación lineal,3
-Regresión,"Interpretar la fiabilidad de una predicción teniendo en cuenta r, el tamaño de la muestra y si el valor de la variable independiente está en el rago de valores de la muestra",2
+Regresión,Aplicar las transformaciones de variables para convertir un modelo no lineal en uno lineal,3
 Regresión,Calcular un modelo de regresión exponencial,2
 Regresión,Calcular un modelo de regresión logarítmico,3
 Regresión,Comparar la bondad de ajuste de dos o más modelos de regresión,1
-Regresión,Hacer predicciones con modelos de regresión no lineales,3
+Regresión,Hacer predicciones con modelos de regresión,3
+Regresión,"Interpretar la fiabilidad de una predicción teniendo en cuenta r, el tamaño de la muestra y si el valor de la variable independiente está en el rago de valores de la muestra",2
 Regresión,Identificar datos atípicos en un diagrama de dispersión,1
 Probabilidad,Identificar la unión de dos sucesos,1
 Probabilidad,Identificar la interseción de dos sucesos,1
 Probabilidad,Identificar el contrario de un suceso,1
 Probabilidad,Identificar la diferencia de dos sucesos,1
 Probabilidad,Identificar un suceso condicionado,1
-Probabilidad,Determinar si dos sucesos son compatibles o incompatibles,
+Probabilidad,Determinar si dos sucesos son compatibles o incompatibles,2
 Probabilidad,Aplicar las leyes de Morgan,2
 Probabilidad,Calcular una probabilidad con la definición de Laplace,1
 Probabilidad,Calcular una probabilidad con la definición frequentista,1
@@ -112,10 +113,10 @@ Probabilidad,Construir un árbol probabilístico,3
 Probabilidad,Calcular la probabilidad de un suceso sumando las probabilidades de sus elementos,2
 Probabilidad,Aplicar el teorema de la probabilidad total,3
 Probabilidad,Aplicar el teorema de Bayes,3
-Probabilidad,Interpretación de las probabilidades,
+Probabilidad,Interpretación de las probabilidades,2
 Epidemiología,Calcular la prevalencia de un suceso,2
 Epidemiología,Calcular la incidencia acumulada de un suceso,1
-Epidemiología,Calcular el riesgo atribuible de un suceso,
+Epidemiología,Calcular el riesgo atribuible de un suceso,2
 Epidemiología,Calcular el riesgo de un suceso,2
 Epidemiología,Calcular el riesgo relativo de un suceso,2
 Epidemiología,Interpretar el riesgo relativo,3
@@ -123,6 +124,7 @@ Epidemiología,Calcular el odds de un suceso,2
 Epidemiología,Calcular el odds ratio de un suceso,2
 Epidemiología,Interpretar el odds ratio,3
 Epidemiología,Identificar la medida de asociación más adecuada dependiendo del tipo de estudio (prospectivo o retrospectivo),3
+Epidemiología,Identificar la prevalencia de un suceso.,1
 Epidemiología,"Identificar los verdaderos positivos, verdaderos negativos, falsos positivos y falsos negativos de un test diagnóstico",1
 Epidemiología,Identificar la sensibilidad de un test diagnóstico,1
 Epidemiología,Identificar la especificidad de un test diagnóstico,1
@@ -175,6 +177,7 @@ Variables Aleatorias Discretas,Calcular la media de una distribución Poisson,1
 Variables Aleatorias Discretas,Calcular la varianza de una distribución Poisson,1
 Variables Aleatorias Discretas,Aplicar la ley de los casos raros,3
 Variables Aleatorias Continuas,Comprobar si una función es función de densidad,2
+Variables Aleatorias Continuas,Expresar un porcentaje o un número de individuos acumulados por encima o por debajo de un valor como una probabilidad,1
 Variables Aleatorias Continuas,Calcular una probabilidad acumulada a partir de la función de densidad,2
 Variables Aleatorias Continuas,Calcular la probabilidad de un intervalo a partir de la función de densidad,2
 Variables Aleatorias Continuas,Calcular una probabilidad acumulada hacia la derecha a partir de la función de distribución,1
@@ -196,4 +199,5 @@ Variables Aleatorias Continuas,Deshacer la transformación de tipificación para
 Variables Aleatorias Continuas,Obtener la media de una distribución normal resolviendo una ecuación,2
 Variables Aleatorias Continuas,Obtener la desviación típica de una distribución normal resolviendo una ecuación,2
 Variables Aleatorias Continuas,Obtener la media y la desviación típica de una distribución normal resolviendo un sistema de ecuaciones,2
+Variables Aleatorias Continuas,Calcular el rango intercuartílico de una distribución normal,1
 Variables Aleatorias Continuas,Compute the number of individuals of a population that satisfy an event from its probability,1
