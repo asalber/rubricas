@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# Author: Alfredo Sánchez Alberca (asalber@ceu.es)
+
 import pandas as pd 
 rubrics = {'Estadística y Probabilidad':'rubrica-estadistica'}
 
@@ -31,5 +34,3 @@ for k, v in rubrics.items():
   f = open('docs/' + v + '.md', 'w')
   f.write(md)
   f.close()
-
-#print(csv_to_html('estadistica-rubrica.csv'))
