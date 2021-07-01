@@ -90,7 +90,7 @@ Regresión,Interpretar el coeficiente de correlación lineal,3
 Regresión,Aplicar las transformaciones de variables para convertir un modelo no lineal en uno lineal,3
 Regresión,Calcular un modelo de regresión exponencial,2
 Regresión,Calcular un modelo de regresión logarítmico,3
-Regresión,Comparar la bondad de ajuste de dos o más modelos de regresión,1
+Regresión,Comparar la bondad de ajuste de dos o más modelos de regresión,3
 Regresión,Hacer predicciones con modelos de regresión,3
 Regresión,"Interpretar la fiabilidad de una predicción teniendo en cuenta r, el tamaño de la muestra y si el valor de la variable independiente está en el rago de valores de la muestra",2
 Regresión,Identificar datos atípicos en un diagrama de dispersión,1
