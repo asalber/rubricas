@@ -3,7 +3,7 @@ Descriptiva,Clasificar tipos de variables,1
 Descriptiva,Calcular frecuencias relativas,1
 Descriptiva,Calcular frecuencias acumuladas,1
 Descriptiva,Identificar el tamaño muestral a partir de la muestra,1
-Descriptiva,Identificar el tamaño muestral a partir de un diagrama,2
+Descriptiva,Identificar el tamaño muestral a partir de un diagrama,1
 Descriptiva,Construir la tabla de frecuencias sin datos agrupados,1
 Descriptiva,Construir la tabla de frecuencias con datos agrupados,1
 Descriptiva,Dibujar un diagrama de barras y el correspondiente polígono,1
@@ -20,7 +20,7 @@ Descriptiva,Calcular la media aritmética a partir de la muestra,2
 Descriptiva,Calcular la media aritmética a partir de la tabla de frecuencias,2
 Descriptiva,Calcular la media aritmética a partir de las sumas,2
 Descriptiva,Interpretar la media aritmética,2
-Descriptiva,Calcular la media ponderada,1
+Descriptiva,Calcular la media ponderada,2
 Descriptiva,Calcular la mediana a partir de la muestra,2
 Descriptiva,Calcular la mediana a partir de la tabla de frecuencias sin datos agrupados,2
 Descriptiva,Calcular la mediana a partir de la tabla de frecuencias con datos agrupados (interpolación),2
@@ -29,19 +29,17 @@ Descriptiva,Calcular la moda a partir de la muestra,1
 Descriptiva,Calcular la moda a partir de la tabla de frecuencias,1
 Descriptiva,Interpretar la moda,1
 Descriptiva,Identificar el estadístico de tendencia central más apropiado en cada caso,2
-Descriptiva,Identificar la frecuencia acumulada correspondiente a un percentil,1
 Descriptiva,Calcular percenciles a partir de la tabla de frecuencias sin datos agrupados,2
 Descriptiva,Calcular percenciles a partir de la tabla de frecuencias con datos agrupados (interpolación),2
 Descriptiva,Calcular la frecuencia acumulada hasta un determinado valor con datos agrupados (interpolación),2
-Descriptiva,Interpretar percentiles,3
+Descriptiva,Interpretar percentiles,2
 Descriptiva,Calcular el recorrido,1
 Descriptiva,Calcular el rango intercuartílico,1
 Descriptiva,Interpretar el rango intercuartílico,2
 Descriptiva,Calcular las vallas del diagrama de caja y bigotes,1
 Descriptiva,Dibujar la caja del diagrama de caja y bigotes,1
 Descriptiva,Dibujar los bigotes del diagrama de caja y bigotes,1
-Descriptiva,Identificar los datos atípicos a partir de las vallas,2
-Descriptiva,Interpretar la variabilidad central a partir del diagrama de caja y bigotes,1
+Descriptiva,Identificar los datos atípicos a partir de las vallas,1
 Descriptiva,Interpretar la asimetría a partir del diagrama de caja y bigotes,1
 Descriptiva,Calcular la desviación de un dato a la media,1
 Descriptiva,Calcular la varianza a partir de la muestra,2
@@ -50,8 +48,8 @@ Descriptiva,Calcular la varianza a partir de las sumas,2
 Descriptiva,Interpretar la varianza (unidades),1
 Descriptiva,Calcular la desviación típica,1
 Descriptiva,Interpretar la desviación típica,2
-Descriptiva,Calcular el coeficiente de variación,2
-Descriptiva,Interpretar el coeficiente de variación,3
+Descriptiva,Calcular el coeficiente de variación,1
+Descriptiva,Interpretar el coeficiente de variación,2
 Descriptiva,Comparar la variabilidad relativa de dos o más muestras,3
 Descriptiva,Calcular el coeficiente de asimetría a partir de la muestra,2
 Descriptiva,Calcular el coeficiente de asimetría a partir de la tabla de frecuencias,2
@@ -61,7 +59,7 @@ Descriptiva,Calcular el coeficiente de apuntamiento a partir de la muestra,2
 Descriptiva,Calcular el coeficiente de apuntamiento a partir de la tabla de frecuencias,2
 Descriptiva,Calcular el coeficiente de apuntamiento a partir de las sumas,2
 Descriptiva,Interpretar el coeficiente de apuntamiento,2
-Descriptiva,Identificar si una muestra proviene de una población normal a partir de los coeficientes de asimetría y apuntamiento,3
+Descriptiva,Identificar si una muestra proviene de una población normal a partir de los coeficientes de asimetría y apuntamiento,2
 Descriptiva,Calcular la media de una transformación lineal,1
 Descriptiva,Calcular la desviación típica de una transformación lineal,1
 Descriptiva,Calcular el coeficiente de asimetría de una transformación lineal,1
@@ -72,27 +70,29 @@ Descriptiva,Comparar puntuaciones típicas,2
 Regresión,Construir la tabla de frecuencias bidimensional,1
 Regresión,Calcular las distribuciones marginales,1
 Regresión,Dibujar el diagrama de dispersión,2
-Regresión,Identificar los principales tipos de relaciones no lineales a partir del diagrama de dispersión,2
+Regresión,Identificar los principales tipos de relaciones a partir del diagrama de dispersión,2
+Regresión,Interpretar el grado de correlación aproximado a partir del diagrama de dispersión,2
 Regresión,Calcular la covarianza a partir de la muestra,2
 Regresión,Calcular la covarianza a partir de la tabla de frecuencias,2
 Regresión,Calcular la covarianza a partir de las sumas,2
 Regresión,Interpretar la covarianza (unidades),2
-Regresión,Calcular la recta de regresión,3
+Regresión,Calcular la recta de regresión,2
 Regresión,Calcular el coeficiente de regresión,2
 Regresión,Interpretar el coeficiente de regresión,2
-Regresión,Identificar el modelo de regresión adecuado dependiendo de la variable que se quiera predecir,1
-Regresión,Calcular las medias a partir de las rectas de regresión,1
+Regresión,Identificar el rol (dependiente o independiente) de las variables en un modelo de regresión,2
+Regresión,Plantear el sistema de ecuaciones para obtener las medias a partir de las rectas de regresión,1
+Regresión,Resolver el sistema de ecuaciones para calcular las medias a partir de las rectas de regresión,1
 Regresión,Calcular el coeficiente de determinación lineal,3
-Regresión,Calcular el coeficiente de determinación a partir de las rectas de regresión,1
+Regresión,Calcular el coeficiente de determinación a partir de las rectas de regresión,2
 Regresión,Interpretar el coeficiente de determinación lineal,3
-Regresión,Calcular el coeficiente de correlación lineal,3
+Regresión,Calcular el coeficiente de correlación lineal,2
 Regresión,Interpretar el coeficiente de correlación lineal,3
 Regresión,Aplicar las transformaciones de variables para convertir un modelo no lineal en uno lineal,3
 Regresión,Calcular un modelo de regresión exponencial,2
-Regresión,Calcular un modelo de regresión logarítmico,3
+Regresión,Calcular un modelo de regresión logarítmico,2
 Regresión,Comparar la bondad de ajuste de dos o más modelos de regresión,3
-Regresión,Hacer predicciones con modelos de regresión,3
-Regresión,"Interpretar la fiabilidad de una predicción teniendo en cuenta r, el tamaño de la muestra y si el valor de la variable independiente está en el rago de valores de la muestra",2
+Regresión,Hacer predicciones con modelos de regresión,2
+Regresión,"Interpretar la fiabilidad de una predicción teniendo en cuenta r, el tamaño de la muestra y si el valor de la variable independiente está en el rago de valores de la muestra",3
 Regresión,Identificar datos atípicos en un diagrama de dispersión,1
 Probabilidad,Identificar la unión de dos sucesos,1
 Probabilidad,Identificar la interseción de dos sucesos,1
