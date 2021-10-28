@@ -75,13 +75,15 @@ Regresión,Interpretar el grado de correlación aproximado a partir del diagrama
 Regresión,Calcular la covarianza a partir de la muestra,2
 Regresión,Calcular la covarianza a partir de la tabla de frecuencias,2
 Regresión,Calcular la covarianza a partir de las sumas,2
-Regresión,Interpretar la covarianza (unidades),2
+Regresión,Interpretar la covarianza,2
 Regresión,Calcular la recta de regresión,2
 Regresión,Calcular el coeficiente de regresión,2
 Regresión,Interpretar el coeficiente de regresión,2
 Regresión,Identificar el rol (dependiente o independiente) de las variables en un modelo de regresión,2
 Regresión,Plantear el sistema de ecuaciones para obtener las medias a partir de las rectas de regresión,1
 Regresión,Resolver el sistema de ecuaciones para calcular las medias a partir de las rectas de regresión,1
+Regresión,Obtener las medias a partir del gráfico de las rectas de regresión,1
+Regresión,Calcular la pendiente de una recta de regresión a partir de su gráfico,1
 Regresión,Calcular el coeficiente de determinación lineal,3
 Regresión,Calcular el coeficiente de determinación a partir de las rectas de regresión,2
 Regresión,Interpretar el coeficiente de determinación lineal,3
