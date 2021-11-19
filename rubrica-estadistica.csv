@@ -101,7 +101,8 @@ Probabilidad,Identificar la interseción de dos sucesos,1
 Probabilidad,Identificar el contrario de un suceso,1
 Probabilidad,Identificar la diferencia de dos sucesos,1
 Probabilidad,Identificar un suceso condicionado,1
-Probabilidad,Determinar si dos sucesos son compatibles o incompatibles,2
+Probabilidad,Determinar si dos sucesos son compatibles o incompatibles,1
+,Plantear el problema y desarrollar una estrategia de resolución adecuada,3
 Probabilidad,Aplicar las leyes de Morgan,2
 Probabilidad,Calcular una probabilidad con la definición de Laplace,1
 Probabilidad,Calcular una probabilidad con la definición frequentista,1
@@ -110,12 +111,12 @@ Probabilidad,Calcular la probabilidad de la interseción de dos sucesos,2
 Probabilidad,Calcular la probabilidad del suceso contrario,1
 Probabilidad,Calcular la probabilidad de la diferencia de dos sucesos,2
 Probabilidad,Calcular una probabilidad condicionada ,2
-Probabilidad,Determinar si dos sucesos son dependientes o independientes,3
-Probabilidad,Construir un árbol probabilístico,3
+Probabilidad,Determinar si dos sucesos son dependientes o independientes,2
+Probabilidad,Construir un espacio probabilístico usando árboles o tablas.,3
 Probabilidad,Calcular la probabilidad de un suceso sumando las probabilidades de sus elementos,2
 Probabilidad,Aplicar el teorema de la probabilidad total,3
 Probabilidad,Aplicar el teorema de Bayes,3
-Probabilidad,Interpretación de las probabilidades,2
+Probabilidad,Interpretar una probabilidad,1
 Epidemiología,Calcular la prevalencia de un suceso,2
 Epidemiología,Calcular la incidencia acumulada de un suceso,1
 Epidemiología,Calcular el riesgo atribuible de un suceso,2
@@ -159,7 +160,7 @@ Variables Aleatorias Discretas,Calcular la media de una variable aleatoria discr
 Variables Aleatorias Discretas,Calcular la varianza de una variable aleatoria discreta,2
 Variables Aleatorias Discretas,Calcular una probabilidad acumulada hacia la izquierda de una variable aleatoria discreta,2
 Variables Aleatorias Discretas,Calcular una probabilidad acumulada hacia la derecha de una variable aleatoria discreta,2
-Variables Aleatorias Discretas,Calcular la probabilidad de un intervalo de una variable aleatoria discreta,2
+Variables Aleatorias Discretas,Calcular la probabilidad de un intervalo de una variable aleatoria discreta,1
 Variables Aleatorias Discretas,Identificar un modelo de distribución uniforme discreta,2
 Variables Aleatorias Discretas,Identificar los parámetros de un modelo de distribución uniforme discreta,2
 Variables Aleatorias Discretas,Calcular la probabilidad de un valor de una distribución uniforme discreta,2
@@ -167,13 +168,13 @@ Variables Aleatorias Discretas,Calcular la media de una distribución uniforme d
 Variables Aleatorias Discretas,Calcular la varianza de una distribución uniforme discreta,1
 Variables Aleatorias Discretas,Identificar el modelo de distribución de probabilidad binomial,3
 Variables Aleatorias Discretas,Identificar el número de repeticiones de un modelo binomial,1
-Variables Aleatorias Discretas,Identificar la probabilidad de éxito de un modelo binomial,2
+Variables Aleatorias Discretas,Identificar la probabilidad de éxito de un modelo binomial,1
 Variables Aleatorias Discretas,Calcular la probabilidad de un valor de una distribución binomial,2
-Variables Aleatorias Discretas,Calcular la media de una distribución binomial,2
-Variables Aleatorias Discretas,Calcular la varianza de una distribución binomial,2
+Variables Aleatorias Discretas,Calcular la media de una distribución binomial,1
+Variables Aleatorias Discretas,Calcular la varianza de una distribución binomial,1
 Variables Aleatorias Discretas,Identificar el modelo de distribución de probabilidad de Poisson,3
 Variables Aleatorias Discretas,Identificar el parámetro lambda del modelo de Poisson,2
-Variables Aleatorias Discretas,Cambiar la media de un modelo Poisson dependiendo del intervalo unidad considerado,2
+Variables Aleatorias Discretas,Cambiar la media de un modelo Poisson dependiendo del intervalo unidad considerado,1
 Variables Aleatorias Discretas,Calcular la probabilidad de un valor de una distribución Poisson,2
 Variables Aleatorias Discretas,Calcular la media de una distribución Poisson,1
 Variables Aleatorias Discretas,Calcular la varianza de una distribución Poisson,1
@@ -191,15 +192,14 @@ Variables Aleatorias Continuas,Identificar los parámetros de un modelo de distr
 Variables Aleatorias Continuas,Calcular la probabilidad acumulada de una distribución uniforme continua,2
 Variables Aleatorias Continuas,Calcular la media de una distribución uniforme continua,1
 Variables Aleatorias Continuas,Calcular la varianza de una distribución uniforme continua,1
-Variables Aleatorias Continuas,Identificar un modelo de distribución de probabilidad normal,3
+Variables Aleatorias Continuas,Identificar un modelo de distribución de probabilidad normal,2
 Variables Aleatorias Continuas,Identificar los parámetros (media y desviación típica) de un modelo de distribución normal,1
 Variables Aleatorias Continuas,Aplicar las propiedades de un modelo de distribución normal,2
 Variables Aleatorias Continuas,Aplicar la transformación de tipificación a una variable con distribución normal,2
 Variables Aleatorias Continuas,Calcula la probabilidad acumulada de un valor con la tabla de la distribución normal estándar,2
 Variables Aleatorias Continuas,Calcular un percentil con la tabla de la distribución normal estándar,2
 Variables Aleatorias Continuas,Deshacer la transformación de tipificación para obtener un percentil de una distribución normal no estándar,2
-Variables Aleatorias Continuas,Obtener la media de una distribución normal resolviendo una ecuación,2
-Variables Aleatorias Continuas,Obtener la desviación típica de una distribución normal resolviendo una ecuación,2
-Variables Aleatorias Continuas,Obtener la media y la desviación típica de una distribución normal resolviendo un sistema de ecuaciones,2
+Variables Aleatorias Continuas,Plantear una ecuación o sistema para obtener los parámetros (media o desviación típica) de una distribución normal,2
+Variables Aleatorias Continuas,Resolver una ecuación o sistema para obtener los parámetros (media o desviación típica) de una distribución nomal,1
 Variables Aleatorias Continuas,Calcular el rango intercuartílico de una distribución normal,1
 Variables Aleatorias Continuas,Compute the number of individuals of a population that satisfy an event from its probability,1
