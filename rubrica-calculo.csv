@@ -8,8 +8,18 @@ Fundamentos,Resolver una ecuación de segundo grado,1
 Fundamentos,Resolver un sistema de dos ecuaciones,1
 Fundamentos,Calcular la imagen de una función para un valor dado,1
 Fundamentos,Calcular la antiimagen de una función para un valor dado,1
+Fundamentos,Identificar los valores de las variables de una función para los que la función tiene sentido en un contexto,1
 Geometría,Calcular la hipotenusa de un triángulo rectángulo,1
+Geometría,Calcular la ecuación de una recta que pasa por dos puntos,2
+Geometría,Calcular la ecuación de una recta que pasa por un punto con la dirección de un vector,2
+Álgebra lineal,Calcular el módulo de un vector,1
+Álgebra lineal,Calcular la suma o diferencia de dos vectores,1
+Álgebra lineal,Calcular el producto escalar de dos vectores,1
+Álgebra lineal,Calcular la suma o diferencia de dos matrices,1
+Álgebra lineal,Calcular el producto de dos matrices,2
+Álgebra lineal,Calcular el determinante de una matriz cuadrada,2
 Derivadas,Calcular derivada de una función elemental,1
+Derivadas,Calcular derivadas de funciones complejas,2
 Derivadas,Aplicar la regla de la cadena para derivar funciones compuestas,2
 Derivadas,"Identificar la derivada en un enunciado (tasa de variación, velocidad, etc)",2
 Derivadas,Interpretar la derivada como tasa de variación instantánea o velocidad instantánea,3
@@ -39,13 +49,13 @@ Integrales,Calcular una integral definida a partir de su primitiva aplicando la 
 Integrales,Calcular el área entre la gráfica de una función y el eje x en un intervalo,2
 Integrales,Calcular el área entre las gráficas de dos funciones en un intervalo,2
 EDO,Identificar las variables dependiente e independiente en una ecuación diferencial,1
-EDO,Identificar la derivada de la variable dependiente en una ecuación diferencial,1
-EDO,Multiplicar por una constante para expresar la proporcionalidad ,1
 EDO,Deducir la ecuación diferencial del enunciado,3
 EDO,Separar las variables de una ecuación diferencial de variables separables,1
 EDO,Obtener la solución general de una ecuación diferencial,2
 EDO,Identificar las condiciones iniciales de un problema del valor inicial,1
 EDO,Obtener la solución particular de una ecuación diferencial,2
+EDO,Usar la solución general de una ecuación diferencial para predecir el valor de la variable dependiente,1
+EDO,Usar la solución general de una ecuación diferencial para predecir el valor de la variable independiente,1
 Derivadas varias variables,Calcular derivadas parciales de primer orden,3
 Derivadas varias variables,Calcular derivadas parciales de segundo orden,3
 Derivadas varias variables,Interpretar la derivada parcial,2

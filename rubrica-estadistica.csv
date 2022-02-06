@@ -65,6 +65,7 @@ Descriptiva,Calcular la desviación típica de una transformación lineal,1
 Descriptiva,Calcular el coeficiente de asimetría de una transformación lineal,1
 Descriptiva,Calcular el coeficiente de apuntamiento de una transformación lineal,1
 Descriptiva,Aplicar la transformación de tipificación,2
+Descriptiva,Aplicar las propiedades de la transformación de tipificación,2
 Descriptiva,Interpretar una puntuación típica,2
 Descriptiva,Comparar puntuaciones típicas,2
 Regresión,Construir la tabla de frecuencias bidimensional,1
@@ -102,7 +103,7 @@ Probabilidad,Identificar el contrario de un suceso,1
 Probabilidad,Identificar la diferencia de dos sucesos,1
 Probabilidad,Identificar un suceso condicionado,1
 Probabilidad,Determinar si dos sucesos son compatibles o incompatibles,1
-,Plantear el problema y desarrollar una estrategia de resolución adecuada,3
+Probabilidad,Plantear el problema y desarrollar una estrategia de resolución adecuada,3
 Probabilidad,Aplicar las leyes de Morgan,2
 Probabilidad,Calcular una probabilidad con la definición de Laplace,1
 Probabilidad,Calcular una probabilidad con la definición frequentista,1
@@ -147,6 +148,8 @@ Epidemiología,Calcular el valor predictivo negativo de un test diagnóstico,2
 Epidemiología,Interpretar el valor predictivo negativo de un test diagnóstico,3
 Epidemiología,Calcular la probabilidad de diagnóstico acertado,2
 Epidemiología,Calcular la probabilidad de diagnóstico erroneo,2
+Epidemiología,Calcular la sensibilidad mínima para diagnosticar la enfermedad,3
+Epidemiología,Calcular la especificidad mínima para diagnosticar la enfermedad,3
 Epidemiología,Combinar dos test diagnósticos,3
 Variables Aleatorias Discretas,Definir una variable aleatoria en el contexto de un problema,1
 Variables Aleatorias Discretas,"Identificar los valores de una variable aleatoria que cumplen un suceso del tipo “ninguno”, “todos”, “alguno”, “al menos”, “a lo sumo”, “más”, “menos”…",1
@@ -170,6 +173,7 @@ Variables Aleatorias Discretas,Identificar el modelo de distribución de probabi
 Variables Aleatorias Discretas,Identificar el número de repeticiones de un modelo binomial,1
 Variables Aleatorias Discretas,Identificar la probabilidad de éxito de un modelo binomial,1
 Variables Aleatorias Discretas,Calcular la probabilidad de un valor de una distribución binomial,2
+Variables Aleatorias Discretas,Calcula el número de repeticiones necesario para alcanzar una probabilidad dada.,2
 Variables Aleatorias Discretas,Calcular la media de una distribución binomial,1
 Variables Aleatorias Discretas,Calcular la varianza de una distribución binomial,1
 Variables Aleatorias Discretas,Identificar el modelo de distribución de probabilidad de Poisson,3
@@ -181,6 +185,7 @@ Variables Aleatorias Discretas,Calcular la varianza de una distribución Poisson
 Variables Aleatorias Discretas,Aplicar la ley de los casos raros,3
 Variables Aleatorias Continuas,Comprobar si una función es función de densidad,2
 Variables Aleatorias Continuas,Expresar un porcentaje o un número de individuos acumulados por encima o por debajo de un valor como una probabilidad,1
+Variables Aleatorias Continuas,Calcula la probabilidad de un valor aislado de una variable aleatoria continua,1
 Variables Aleatorias Continuas,Calcular una probabilidad acumulada a partir de la función de densidad,2
 Variables Aleatorias Continuas,Calcular la probabilidad de un intervalo a partir de la función de densidad,2
 Variables Aleatorias Continuas,Calcular una probabilidad acumulada hacia la derecha a partir de la función de distribución,1
